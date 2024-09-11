@@ -2,7 +2,7 @@
 - 👀 I’m interested in .web development
 - 🌱 I’m currently learning flet
 - 💞️ I’m looking to collaborate on .open source projects
-- 📫 How to reach me:[my telegram](https://t.me/mobina_ghadimii
+- 📫 How to reach me:[my telegram](https://t.me/mobina_ghadimii)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im guitarist
 
